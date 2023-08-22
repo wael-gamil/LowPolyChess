@@ -11,6 +11,6 @@
   <ol>
     <li>Clone the repository: <code>git clone https://github.com/wael-gamil/LowPolyChess.git</code></li>
     <li>Open the project in Blender.</li>
-    <li>Navigate to the main scene file: Chess_Scene.blend.</li>
+    <li>Navigate to the main scene file: Chess_Scene.blend inside models folder.</li>
     <li>Start exploring and using the Low Poly Chess set!</li>
   </ol>
